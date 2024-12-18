@@ -1,2 +1,2 @@
 Add-Type -AssemblyName Microsoft.VisualBasic
-[Microsoft.VisualBasic.Interaction]::MsgBox("aaaa", "OkOnly,Information", "oi")
+[Microsoft.VisualBasic.Interaction]::MsgBox(":)", "OkOnly,Information", "Ratted")
